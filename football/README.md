@@ -13,3 +13,4 @@
 ## Notes
 
 ## Credits
+- Stadiums details @ https://www.transfermarkt.co.uk/scottish-premiership/stadien/wettbewerb/SC1/plus/1

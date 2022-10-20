@@ -1,5 +1,8 @@
 import logo from './logo.svg';
 import './App.scss';
+import teams from "./data/TeamData.js"
+
+const teamsArry = teams;
 
 function App() {
   return (
@@ -17,6 +20,7 @@ function App() {
         >
           Learn React
         </a>
+        <img src={teamsArry[6].stadiumImgUrl}/>
       </header>
     </div>
   );
