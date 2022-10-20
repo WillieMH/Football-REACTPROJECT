@@ -14,3 +14,6 @@
 
 ## Credits
 - Stadiums details @ https://www.transfermarkt.co.uk/scottish-premiership/stadien/wettbewerb/SC1/plus/1
+
+## Work Log
+1. Partial set up of date file, variable setting new arry from data and test of img urls.
